@@ -1,0 +1,27 @@
+{
+  "name": "finizdat-layout-parser-node",
+  "version": "1.0.0",
+  "description": "odt-based layout parser",
+  "main": "parser.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/antonklyukin/finizdat-layout-parser-node.git"
+  },
+  "keywords": [
+    "odt",
+    "parser"
+  ],
+  "author": "Anton A. Klyukin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonklyukin/finizdat-layout-parser-node/issues"
+  },
+  "homepage": "https://github.com/antonklyukin/finizdat-layout-parser-node#readme",
+  "dependencies": {
+    "htmlparser2": "^8.0.1"
+  }
+}

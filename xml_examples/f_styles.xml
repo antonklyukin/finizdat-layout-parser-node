@@ -1,0 +1,2086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-styles xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" office:version="1.3">
+  <office:font-face-decls>
+    <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="system" style:font-pitch="variable"/>
+    <style:font-face style:name="Lohit Devanagari" svg:font-family="'Lohit Devanagari'"/>
+    <style:font-face style:name="Lohit Devanagari1" svg:font-family="'Lohit Devanagari'" style:font-family-generic="system" style:font-pitch="variable"/>
+    <style:font-face style:name="Noto Sans CJK SC Regular" svg:font-family="'Noto Sans CJK SC Regular'" style:font-family-generic="system" style:font-pitch="variable"/>
+    <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol" style:font-charset="x-symbol"/>
+    <style:font-face style:name="PT Astra Sans" svg:font-family="'PT Astra Sans'" style:font-pitch="variable"/>
+    <style:font-face style:name="PT Astra Sans1" svg:font-family="'PT Astra Sans'" style:font-family-generic="swiss"/>
+    <style:font-face style:name="PT Astra Sans2" svg:font-family="'PT Astra Sans'" style:font-family-generic="swiss" style:font-pitch="variable"/>
+    <style:font-face style:name="PT Astra Sans3" svg:font-family="'PT Astra Sans'" style:font-adornments="Обычный" style:font-family-generic="swiss" style:font-pitch="variable"/>
+    <style:font-face style:name="PT Astra Sans4" svg:font-family="'PT Astra Sans'" style:font-adornments="Полужирный" style:font-family-generic="swiss" style:font-pitch="variable"/>
+    <style:font-face style:name="PT Astra Serif" svg:font-family="'PT Astra Serif'" style:font-family-generic="roman"/>
+    <style:font-face style:name="PT Astra Serif1" svg:font-family="'PT Astra Serif'" style:font-family-generic="roman" style:font-pitch="variable"/>
+    <style:font-face style:name="PT Astra Serif2" svg:font-family="'PT Astra Serif'" style:font-adornments="Обычный" style:font-family-generic="roman" style:font-pitch="variable"/>
+    <style:font-face style:name="PT Astra Serif3" svg:font-family="'PT Astra Serif', serif"/>
+    <style:font-face style:name="Times New Roman" svg:font-family="'Times New Roman'" style:font-family-generic="roman"/>
+    <style:font-face style:name="Times New Roman1" svg:font-family="'Times New Roman'" style:font-family-generic="system" style:font-pitch="variable"/>
+    <style:font-face style:name="Times New Roman2" svg:font-family="'Times New Roman', serif"/>
+  </office:font-face-decls>
+  <office:styles>
+    <draw:fill-image draw:name="ea_5f_cover_5f_2018_5f_web" draw:display-name="ea_cover_2018_web" xlink:href="Pictures/10000000000009B000000DACE7BAC671BFAE02D2.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+    <style:default-style style:family="graphic">
+      <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+      <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+        <style:tab-stops/>
+      </style:paragraph-properties>
+      <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="PT Astra Serif" fo:font-size="12pt" fo:language="ru" fo:country="RU" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+    </style:default-style>
+    <style:default-style style:family="paragraph">
+      <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.251cm" style:writing-mode="page"/>
+      <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="PT Astra Serif" fo:font-size="12pt" fo:language="ru" fo:country="RU" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+    </style:default-style>
+    <style:default-style style:family="table">
+      <style:table-properties table:border-model="collapsing"/>
+    </style:default-style>
+    <style:default-style style:family="table-row">
+      <style:table-row-properties fo:keep-together="auto"/>
+    </style:default-style>
+    <style:style style:name="Standard" style:family="paragraph" style:class="text" style:master-page-name="">
+      <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+      <style:text-properties style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+      <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+      <style:text-properties style:font-name="PT Astra Sans1" fo:font-family="'PT Astra Sans'" style:font-family-generic="swiss" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC Regular" style:font-family-asian="'Noto Sans CJK SC Regular'" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="'Lohit Devanagari'" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+    </style:style>
+    <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+      <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" style:contextual-spacing="false" fo:line-height="120%"/>
+    </style:style>
+    <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+      <style:text-properties style:font-name="PT Astra Serif" fo:font-family="'PT Astra Serif'" style:font-family-generic="roman" style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="'Lohit Devanagari'"/>
+    </style:style>
+    <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+      <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+      <style:text-properties style:font-name="PT Astra Serif" fo:font-family="'PT Astra Serif'" style:font-family-generic="roman" fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lohit Devanagari" style:font-family-complex="'Lohit Devanagari'" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+    </style:style>
+    <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+      <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+      <style:text-properties style:font-name="PT Astra Serif" fo:font-family="'PT Astra Serif'" style:font-family-generic="roman" style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="'Lohit Devanagari'"/>
+    </style:style>
+    <style:style style:name="ТитулISSN" style:family="paragraph" style:parent-style-name="Text_20_body">
+      <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:line-height="100%"/>
+      <style:text-properties style:font-name="PT Astra Sans3" fo:font-family="'PT Astra Sans'" style:font-style-name="Обычный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="11pt" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулНомерВыпускаРус" style:family="paragraph" style:parent-style-name="Text_20_body">
+      <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="100%"/>
+      <style:text-properties style:font-name="PT Astra Sans4" fo:font-family="'PT Astra Sans'" style:font-style-name="Полужирный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="11pt" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra" style:master-page-name="">
+      <style:paragraph-properties style:page-number="auto" style:shadow="none" text:number-lines="false" text:line-number="0">
+        <style:tab-stops/>
+      </style:paragraph-properties>
+      <style:text-properties fo:font-size="9pt" fo:language="ru" fo:country="RU" fo:background-color="transparent" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулГодВыпускаРус" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+      <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.199cm" style:contextual-spacing="false"/>
+      <style:text-properties style:font-name="PT Astra Sans4" fo:font-family="'PT Astra Sans'" style:font-style-name="Полужирный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="11pt" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулОписаниеЖурналаРус" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+      <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:line-height="100%" style:page-number="auto"/>
+      <style:text-properties style:font-name="PT Astra Sans3" fo:font-family="'PT Astra Sans'" style:font-style-name="Обычный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="6pt" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулПолитикаЖурналаРус" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+      <style:paragraph-properties fo:margin-top="0.101cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false" fo:line-height="100%" style:page-number="auto"/>
+      <style:text-properties style:font-name="PT Astra Sans3" fo:font-family="'PT Astra Sans'" style:font-style-name="Обычный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="7pt" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулВыходныеДанныеЖурналаРус" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+      <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:line-height="100%" style:page-number="auto"/>
+      <style:text-properties style:font-name="PT Astra Sans3" fo:font-family="'PT Astra Sans'" style:font-style-name="Обычный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="7pt" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+      <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false" fo:text-indent="0.3cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0" style:writing-mode="page"/>
+      <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+    </style:style>
+    <style:style style:name="ТитулСодержание" style:family="paragraph" style:parent-style-name="Text_20_body" style:default-outline-level="1" style:list-style-name="">
+      <style:paragraph-properties fo:margin-top="0.4cm" fo:margin-bottom="0.199cm" style:contextual-spacing="false" fo:line-height="100%"/>
+      <style:text-properties style:font-name="PT Astra Sans4" fo:font-family="'PT Astra Sans'" style:font-style-name="Полужирный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="11pt" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулСодержаниеРубрикаРус" style:family="paragraph" style:parent-style-name="Text_20_body">
+      <style:paragraph-properties fo:margin-top="0.15cm" fo:margin-bottom="0.049cm" style:contextual-spacing="false" fo:line-height="100%"/>
+      <style:text-properties style:font-name="PT Astra Sans4" fo:font-family="'PT Astra Sans'" style:font-style-name="Полужирный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулСодержаниеЭлементРус" style:family="paragraph" style:parent-style-name="Text_20_body">
+      <style:paragraph-properties fo:margin-top="0.049cm" fo:margin-bottom="0.049cm" style:contextual-spacing="false" fo:line-height="100%"/>
+      <style:text-properties style:font-name="PT Astra Sans3" fo:font-family="'PT Astra Sans'" style:font-style-name="Обычный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулСодержаниеЭлементАнгл" style:family="paragraph" style:parent-style-name="Text_20_body">
+      <style:paragraph-properties fo:margin-top="0.049cm" fo:margin-bottom="0.049cm" style:contextual-spacing="false" fo:line-height="100%"/>
+      <style:text-properties style:font-name="PT Astra Sans3" fo:font-family="'PT Astra Sans'" style:font-style-name="Обычный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="10pt" fo:language="en" fo:country="US" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулНомерВыпускаАнгл" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+      <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="100%" style:page-number="auto" style:shadow="none"/>
+      <style:text-properties style:font-name="PT Astra Sans4" fo:font-family="'PT Astra Sans'" style:font-style-name="Полужирный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="11pt" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулГодВыпускаАнгл" style:family="paragraph" style:parent-style-name="Text_20_body">
+      <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.199cm" style:contextual-spacing="false" fo:line-height="100%"/>
+      <style:text-properties style:font-name="PT Astra Sans4" fo:font-family="'PT Astra Sans'" style:font-style-name="Полужирный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулОписаниеЖурналаАнгл" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+      <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:line-height="100%" style:page-number="auto"/>
+      <style:text-properties style:font-name="PT Astra Sans3" fo:font-family="'PT Astra Sans'" style:font-style-name="Обычный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="6pt" fo:language="en" fo:country="US" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулПолитикаЖурналаАнгл" style:family="paragraph" style:parent-style-name="Text_20_body">
+      <style:paragraph-properties fo:margin-top="0.101cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false" fo:line-height="100%"/>
+      <style:text-properties style:font-name="PT Astra Sans3" fo:font-family="'PT Astra Sans'" style:font-style-name="Обычный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="7pt" fo:language="en" fo:country="US" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулВыходныеДанныеЖурналаАнгл" style:family="paragraph" style:parent-style-name="Text_20_body">
+      <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:line-height="100%"/>
+      <style:text-properties style:font-name="PT Astra Sans3" fo:font-family="'PT Astra Sans'" style:font-style-name="Обычный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="7pt" fo:language="en" fo:country="US" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулСодержаниеРубрикаАнгл" style:family="paragraph" style:parent-style-name="Text_20_body">
+      <style:paragraph-properties fo:margin-top="0.15cm" fo:margin-bottom="0.049cm" style:contextual-spacing="false" fo:line-height="100%"/>
+      <style:text-properties style:font-name="PT Astra Sans4" fo:font-family="'PT Astra Sans'" style:font-style-name="Полужирный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="10pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="Frame_20_contents" style:display-name="Frame contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+    <style:style style:name="ВерхнийКолонтитул" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+      <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:writing-mode="page"/>
+      <style:text-properties style:font-name="PT Astra Sans3" fo:font-family="'PT Astra Sans'" style:font-style-name="Обычный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="9pt" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+      <style:paragraph-properties text:number-lines="false" text:line-number="0">
+        <style:tab-stops>
+          <style:tab-stop style:position="8.5cm" style:type="center"/>
+          <style:tab-stop style:position="17cm" style:type="right"/>
+        </style:tab-stops>
+      </style:paragraph-properties>
+    </style:style>
+    <style:style style:name="Header" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+      <style:paragraph-properties text:number-lines="false" text:line-number="0">
+        <style:tab-stops>
+          <style:tab-stop style:position="8.5cm" style:type="center"/>
+          <style:tab-stop style:position="17cm" style:type="right"/>
+        </style:tab-stops>
+      </style:paragraph-properties>
+    </style:style>
+    <style:style style:name="НижнийКолонтитул" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+      <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:writing-mode="page"/>
+      <style:text-properties style:font-name="PT Astra Sans3" fo:font-family="'PT Astra Sans'" style:font-style-name="Обычный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="8pt" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+      <style:paragraph-properties text:number-lines="false" text:line-number="0">
+        <style:tab-stops>
+          <style:tab-stop style:position="8.5cm" style:type="center"/>
+          <style:tab-stop style:position="17cm" style:type="right"/>
+        </style:tab-stops>
+      </style:paragraph-properties>
+    </style:style>
+    <style:style style:name="СтатьяРубрикаРус" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+      <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="page"/>
+      <style:text-properties fo:font-size="11pt" fo:font-style="italic" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="СтатьяНазваниеРус" style:family="paragraph" style:parent-style-name="Standard" style:default-outline-level="1" style:list-style-name="">
+      <style:paragraph-properties fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" style:contextual-spacing="false" style:writing-mode="page"/>
+      <style:text-properties fo:font-size="13pt" fo:font-weight="bold" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+    </style:style>
+    <style:style style:name="СтатьяАвторыРус" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-top="0.101cm" fo:margin-bottom="0.199cm" style:contextual-spacing="false" style:writing-mode="page"/>
+      <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
+    </style:style>
+    <style:style style:name="СтатьяАффилиацияРус" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+      <loext:graphic-properties draw:fill="none" draw:fill-color="#729fcf"/>
+      <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.199cm" style:contextual-spacing="false" fo:background-color="transparent" style:writing-mode="page">
+        <style:tab-stops/>
+      </style:paragraph-properties>
+      <style:text-properties style:font-name="PT Astra Serif2" fo:font-family="'PT Astra Serif'" style:font-style-name="Обычный" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="11pt" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="СтатьяАннотацияРус" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+      <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" style:writing-mode="page"/>
+      <style:text-properties fo:font-size="11pt" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="СтатьяИнфоРус" style:family="paragraph" style:parent-style-name="СтатьяАннотацияРус">
+      <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+      <style:text-properties fo:language="ru" fo:country="RU" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="СтатьяАбзац" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+      <loext:graphic-properties draw:fill="none" draw:fill-color="#729fcf"/>
+      <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.4cm" style:contextual-spacing="false" fo:line-height="110%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" style:shadow="none" style:writing-mode="page">
+        <style:tab-stops/>
+      </style:paragraph-properties>
+      <style:text-properties fo:font-size="13pt" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ГрафикаНомерРус" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties style:writing-mode="page"/>
+      <style:text-properties fo:font-size="11pt" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ГрафикаНазваниеРус" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.199cm" style:contextual-spacing="false" style:writing-mode="page"/>
+      <style:text-properties fo:font-size="11pt" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ГрафикаНомерАнгл" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties style:writing-mode="page"/>
+      <style:text-properties fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТаблицаГоловка" style:family="paragraph" style:parent-style-name="Text_20_body">
+      <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" style:writing-mode="page"/>
+      <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="PT Astra Serif" fo:font-family="'PT Astra Serif'" style:font-family-generic="roman" fo:font-size="10pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+    </style:style>
+    <style:style style:name="ТаблицаТело" style:family="paragraph" style:parent-style-name="Text_20_body">
+      <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" style:writing-mode="page"/>
+      <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="PT Astra Serif" fo:font-family="'PT Astra Serif'" style:font-family-generic="roman" fo:font-size="10pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+    </style:style>
+    <style:style style:name="ГрафикаПодписьРус" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-top="0.199cm" fo:margin-bottom="0cm" style:contextual-spacing="false" style:writing-mode="page"/>
+      <style:text-properties fo:font-size="11pt" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ГрафикаПодписьАнгл" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-top="0.199cm" fo:margin-bottom="0cm" style:contextual-spacing="false" style:writing-mode="page"/>
+      <style:text-properties fo:font-size="11pt" fo:language="en" fo:country="US" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ГрафикаНазваниеАнгл" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.199cm" style:contextual-spacing="false" style:writing-mode="page"/>
+      <style:text-properties fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="СтатьяРаздел" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0.3cm" style:contextual-spacing="false" style:writing-mode="page"/>
+      <style:text-properties fo:font-size="13pt" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="СтатьяНазваниеАнгл" style:family="paragraph" style:parent-style-name="Standard" style:default-outline-level="1" style:list-style-name="">
+      <style:paragraph-properties fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" style:contextual-spacing="false" style:writing-mode="page"/>
+      <style:text-properties fo:font-size="13pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="СтатьяАвторыАнгл" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-top="0.101cm" fo:margin-bottom="0.199cm" style:contextual-spacing="false" style:writing-mode="page"/>
+      <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="СтатьяАффилиацияАнгл" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+      <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.199cm" style:contextual-spacing="false" style:writing-mode="page"/>
+      <style:text-properties fo:font-size="11pt" fo:language="en" fo:country="US" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="СтатьяАннотацияАнгл" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+      <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" style:writing-mode="page"/>
+      <style:text-properties fo:font-size="11pt" fo:language="en" fo:country="US" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="СтатьяИнфоАнгл" style:family="paragraph" style:parent-style-name="СтатьяАннотацияАнгл">
+      <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+    </style:style>
+    <style:style style:name="СтатьяРубрикаАнгл" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+      <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="page"/>
+      <style:text-properties fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-style="italic" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+      <style:paragraph-properties fo:margin-left="0.598cm" fo:margin-right="0cm" fo:text-indent="-0.598cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+      <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+    </style:style>
+    <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
+      <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" text:number-lines="false" text:line-number="0"/>
+      <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+    </style:style>
+    <style:style style:name="Signature" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+      <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+    </style:style>
+    <style:style style:name="Bibliography_20_1" style:display-name="Bibliography 1" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+      <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+        <style:tab-stops>
+          <style:tab-stop style:position="17cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+        </style:tab-stops>
+      </style:paragraph-properties>
+    </style:style>
+    <style:style style:name="ТитулНомерТомРус" style:family="text">
+      <style:text-properties style:font-name="PT Astra Sans4" fo:font-family="'PT Astra Sans'" style:font-style-name="Полужирный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулНомерВыпускРус" style:family="text">
+      <style:text-properties style:font-name="PT Astra Sans4" fo:font-family="'PT Astra Sans'" style:font-style-name="Полужирный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулМесяцВыпускРус" style:family="text">
+      <style:text-properties style:font-name="PT Astra Sans4" fo:font-family="'PT Astra Sans'" style:font-style-name="Полужирный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="11pt" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулГодВыпускРус" style:family="text">
+      <style:text-properties style:font-name="PT Astra Sans4" fo:font-family="'PT Astra Sans'" style:font-style-name="Полужирный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="11pt" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулСквознойНомер" style:family="text">
+      <style:text-properties style:font-name="PT Astra Sans3" fo:font-family="'PT Astra Sans'" style:font-style-name="Обычный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="7pt" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулНомерТомАнгл" style:family="text">
+      <style:text-properties style:font-name="PT Astra Sans4" fo:font-family="'PT Astra Sans'" style:font-style-name="Полужирный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="16pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулНомерВыпускАнгл" style:family="text">
+      <style:text-properties style:font-name="PT Astra Sans4" fo:font-family="'PT Astra Sans'" style:font-style-name="Полужирный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="16pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулМесяцВыпускАнгл" style:family="text">
+      <style:text-properties style:font-name="PT Astra Sans4" fo:font-family="'PT Astra Sans'" style:font-style-name="Полужирный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="ТитулГодВыпускАнгл" style:family="text">
+      <style:text-properties style:font-name="PT Astra Sans4" fo:font-family="'PT Astra Sans'" style:font-style-name="Полужирный" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text">
+      <style:text-properties style:text-position="super 58%" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+      <style:text-properties style:text-position="super 58%"/>
+    </style:style>
+    <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+      <style:text-properties fo:color="#000000" loext:opacity="100%" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-size-asian="10.5pt" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+    </style:style>
+    <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+      <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
+    </style:style>
+    <style:style style:name="Default_20_Paragraph_20_Font" style:display-name="Default Paragraph Font" style:family="text"/>
+    <style:style style:name="markedcontent" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font"/>
+    <style:style style:name="СтатьяПолученаРус" style:family="text">
+      <style:text-properties fo:font-size="10pt" fo:language="ru" fo:country="RU" fo:background-color="transparent" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="СтатьяДоработанаРус" style:family="text">
+      <style:text-properties fo:font-size="10pt" fo:language="ru" fo:country="RU" fo:background-color="transparent" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="СтатьяОдобренаРус" style:family="text">
+      <style:text-properties fo:font-size="10pt" fo:language="ru" fo:country="RU" fo:background-color="transparent" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="СтатьяУДК" style:family="text">
+      <style:text-properties fo:font-size="10pt" fo:language="ru" fo:country="RU" fo:background-color="transparent" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="СтатьяJEL" style:family="text">
+      <style:text-properties fo:font-size="10pt" fo:language="ru" fo:country="RU" fo:background-color="transparent" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="СтятьяКлючевыеСловаРус" style:family="text">
+      <style:text-properties fo:font-size="10pt" fo:language="ru" fo:country="RU" fo:background-color="transparent" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="СтатьяПолученаАнгл" style:family="text">
+      <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="PT Astra Serif2" fo:font-family="'PT Astra Serif'" style:font-style-name="Обычный" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="10pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="0050518d" fo:background-color="transparent" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+    </style:style>
+    <style:style style:name="СтатьяДоработанаАнгл" style:family="text" style:parent-style-name="СтатьяДоработанаРус">
+      <style:text-properties fo:font-size="10pt" fo:language="en" fo:country="US" officeooo:rsid="0050518d" fo:background-color="transparent" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+    </style:style>
+    <style:style style:name="СтатьяОдобренаАнгл" style:family="text">
+      <style:text-properties fo:font-size="10pt" fo:language="en" fo:country="US" officeooo:rsid="0050518d" fo:background-color="transparent" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+    </style:style>
+    <style:style style:name="СтятьяКлючевыеСловаАнгл" style:family="text">
+      <style:text-properties fo:font-size="10pt" fo:language="en" fo:country="US" fo:background-color="transparent" style:font-size-asian="10.5pt"/>
+    </style:style>
+    <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+    <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+      <style:text-properties style:text-position="super 58%"/>
+    </style:style>
+    <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+    <style:style style:name="Graphics" style:family="graphic">
+      <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+    </style:style>
+    <style:style style:name="Frame" style:family="graphic">
+      <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" fo:margin-left="0.201cm" fo:margin-right="0.201cm" fo:margin-top="0.201cm" fo:margin-bottom="0.201cm" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0.15cm" fo:border="0.06pt solid #000000"/>
+    </style:style>
+    <style:style style:name="Formula" style:family="graphic">
+      <style:graphic-properties text:anchor-type="as-char" svg:y="0cm" fo:margin-left="0.201cm" fo:margin-right="0.201cm" style:vertical-pos="middle" style:vertical-rel="text"/>
+    </style:style>
+    <style:style style:name="OLE" style:family="graphic">
+      <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+    </style:style>
+    <text:outline-style style:name="Outline">
+      <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab"/>
+        </style:list-level-properties>
+      </text:outline-level-style>
+      <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab"/>
+        </style:list-level-properties>
+      </text:outline-level-style>
+      <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab"/>
+        </style:list-level-properties>
+      </text:outline-level-style>
+      <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab"/>
+        </style:list-level-properties>
+      </text:outline-level-style>
+      <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab"/>
+        </style:list-level-properties>
+      </text:outline-level-style>
+      <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab"/>
+        </style:list-level-properties>
+      </text:outline-level-style>
+      <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab"/>
+        </style:list-level-properties>
+      </text:outline-level-style>
+      <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab"/>
+        </style:list-level-properties>
+      </text:outline-level-style>
+      <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab"/>
+        </style:list-level-properties>
+      </text:outline-level-style>
+      <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab"/>
+        </style:list-level-properties>
+      </text:outline-level-style>
+    </text:outline-style>
+    <text:list-style style:name="СтатьяМаркСписокШарикУровень1">
+      <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="space" fo:text-indent="-0.379cm" fo:margin-left="0.379cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" loext:num-list-format="%2%" text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%" text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%" text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%" text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%" text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%" text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="СтатьяСписокЛитРус">
+      <text:list-level-style-number text:level="1" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="2" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="3" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="4" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="5" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="6" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="7" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="8" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="9" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+    </text:list-style>
+    <text:list-style style:name="СтатьяСписокЛитАнгл">
+      <text:list-level-style-number text:level="1" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="2" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="3" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="4" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="5" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="6" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="7" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="8" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="9" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6cm" fo:text-indent="-0.6cm" fo:margin-left="0.6cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+    </text:list-style>
+    <text:list-style style:name="СтатьяНумСписокТочкаУровень1">
+      <text:list-level-style-number text:level="1" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="space" fo:text-indent="-0.45cm" fo:margin-left="0.45cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="2" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="3" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="4" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="5" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="6" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="7" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="8" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="9" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+    </text:list-style>
+    <text:list-style style:name="СтатьяМаркСписокШарикУровень2">
+      <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="space" fo:text-indent="-0.37cm" fo:margin-left="0.72cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" loext:num-list-format="%2%" text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%" text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%" text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%" text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%" text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%" text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="СтатьяМаркСписокШтрихУровень1">
+      <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%" text:bullet-char="–">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="space" fo:text-indent="-0.349cm" fo:margin-left="0.349cm"/>
+        </style:list-level-properties>
+        <style:text-properties fo:font-family="'PT Astra Serif'" style:font-style-name="Regular" style:font-family-generic="roman"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" loext:num-list-format="%2%" text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%" text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%" text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%" text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%" text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%" text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="СтатьяМаркСписокШтрихУровень2">
+      <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%" text:bullet-char="–">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="space" fo:text-indent="-0.351cm" fo:margin-left="0.7cm"/>
+        </style:list-level-properties>
+        <style:text-properties fo:font-family="'PT Astra Serif'" style:font-style-name="Regular" style:font-family-generic="roman"/>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" loext:num-list-format="%2%" text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%" text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%" text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%" text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%" text:bullet-char="◦">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%" text:bullet-char="▪">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+      <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-bullet>
+    </text:list-style>
+    <text:list-style style:name="СтатьяНумСписокТочкаУровень2">
+      <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="space" fo:text-indent="-0.452cm" fo:margin-left="0.801cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+    </text:list-style>
+    <text:list-style style:name="СтатьяНумСписокСкобкаУровень1">
+      <text:list-level-style-number text:level="1" loext:num-list-format="%1%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="space" fo:text-indent="-0.499cm" fo:margin-left="0.499cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="2" loext:num-list-format="%2%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="3" loext:num-list-format="%3%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="4" loext:num-list-format="%4%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="5" loext:num-list-format="%5%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="6" loext:num-list-format="%6%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="7" loext:num-list-format="%7%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="8" loext:num-list-format="%8%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="9" loext:num-list-format="%9%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="10" loext:num-list-format="%10%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+    </text:list-style>
+    <text:list-style style:name="СтатьяНумСписокСкобкаУровень2">
+      <text:list-level-style-number text:level="1" loext:num-list-format="%1%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="space" fo:text-indent="-0.501cm" fo:margin-left="0.85cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="2" loext:num-list-format="%2%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="3" loext:num-list-format="%3%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="4" loext:num-list-format="%4%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="5" loext:num-list-format="%5%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="6" loext:num-list-format="%6%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="7" loext:num-list-format="%7%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="8" loext:num-list-format="%8%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="9" loext:num-list-format="%9%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+      <text:list-level-style-number text:level="10" loext:num-list-format="%10%)" style:num-suffix=")" style:num-format="1">
+        <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+          <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+        </style:list-level-properties>
+      </text:list-level-style-number>
+    </text:list-style>
+    <text:notes-configuration text:note-class="footnote" text:default-style-name="Footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" text:master-page-name="Footnote" style:num-suffix=" " style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="chapter"/>
+    <text:notes-configuration text:note-class="endnote" text:default-style-name="Endnote" text:citation-style-name="Endnote_20_Symbol" text:citation-body-style-name="Endnote_20_anchor" text:master-page-name="Endnote" style:num-format="i" text:start-value="0"/>
+    <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  </office:styles>
+  <office:automatic-styles>
+    <style:style style:name="Таблица8" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins"/>
+    </style:style>
+    <style:style style:name="Таблица8.A" style:family="table-column">
+      <style:table-column-properties style:column-width="16.602cm" style:rel-column-width="65535*"/>
+    </style:style>
+    <style:style style:name="Таблица8.A1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.5pt solid #000000"/>
+    </style:style>
+    <style:style style:name="Таблица11" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins"/>
+    </style:style>
+    <style:style style:name="Таблица11.A" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3766*"/>
+    </style:style>
+    <style:style style:name="Таблица11.B" style:family="table-column">
+      <style:table-column-properties style:column-width="14.693cm" style:rel-column-width="58002*"/>
+    </style:style>
+    <style:style style:name="Таблица11.C" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3767*"/>
+    </style:style>
+    <style:style style:name="Таблица11.A1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="bottom" fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица11.B1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица12" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins" style:writing-mode="page"/>
+    </style:style>
+    <style:style style:name="Таблица12.A" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3766*"/>
+    </style:style>
+    <style:style style:name="Таблица12.B" style:family="table-column">
+      <style:table-column-properties style:column-width="14.693cm" style:rel-column-width="58002*"/>
+    </style:style>
+    <style:style style:name="Таблица12.C" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3767*"/>
+    </style:style>
+    <style:style style:name="Таблица12.A1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="bottom" fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица12.B1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица23" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins"/>
+    </style:style>
+    <style:style style:name="Таблица23.A" style:family="table-column">
+      <style:table-column-properties style:column-width="16.602cm" style:rel-column-width="65535*"/>
+    </style:style>
+    <style:style style:name="Таблица23.A1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.5pt solid #000000"/>
+    </style:style>
+    <style:style style:name="Таблица24" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins"/>
+    </style:style>
+    <style:style style:name="Таблица24.A" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3766*"/>
+    </style:style>
+    <style:style style:name="Таблица24.B" style:family="table-column">
+      <style:table-column-properties style:column-width="14.693cm" style:rel-column-width="58002*"/>
+    </style:style>
+    <style:style style:name="Таблица24.C" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3767*"/>
+    </style:style>
+    <style:style style:name="Таблица24.A1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="bottom" fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица24.B1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица25" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins" style:writing-mode="page"/>
+    </style:style>
+    <style:style style:name="Таблица25.A" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3766*"/>
+    </style:style>
+    <style:style style:name="Таблица25.B" style:family="table-column">
+      <style:table-column-properties style:column-width="14.693cm" style:rel-column-width="58002*"/>
+    </style:style>
+    <style:style style:name="Таблица25.C" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3767*"/>
+    </style:style>
+    <style:style style:name="Таблица25.A1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="bottom" fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица25.B1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица36" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins"/>
+    </style:style>
+    <style:style style:name="Таблица36.A" style:family="table-column">
+      <style:table-column-properties style:column-width="16.602cm" style:rel-column-width="65535*"/>
+    </style:style>
+    <style:style style:name="Таблица36.A1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.5pt solid #000000"/>
+    </style:style>
+    <style:style style:name="Таблица37" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins"/>
+    </style:style>
+    <style:style style:name="Таблица37.A" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3766*"/>
+    </style:style>
+    <style:style style:name="Таблица37.B" style:family="table-column">
+      <style:table-column-properties style:column-width="14.693cm" style:rel-column-width="58002*"/>
+    </style:style>
+    <style:style style:name="Таблица37.C" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3767*"/>
+    </style:style>
+    <style:style style:name="Таблица37.A1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="bottom" fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица37.B1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица38" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins" style:writing-mode="page"/>
+    </style:style>
+    <style:style style:name="Таблица38.A" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3766*"/>
+    </style:style>
+    <style:style style:name="Таблица38.B" style:family="table-column">
+      <style:table-column-properties style:column-width="14.693cm" style:rel-column-width="58002*"/>
+    </style:style>
+    <style:style style:name="Таблица38.C" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3767*"/>
+    </style:style>
+    <style:style style:name="Таблица38.A1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="bottom" fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица38.B1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица49" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins"/>
+    </style:style>
+    <style:style style:name="Таблица49.A" style:family="table-column">
+      <style:table-column-properties style:column-width="16.602cm" style:rel-column-width="65535*"/>
+    </style:style>
+    <style:style style:name="Таблица49.A1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.5pt solid #000000"/>
+    </style:style>
+    <style:style style:name="Таблица50" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins"/>
+    </style:style>
+    <style:style style:name="Таблица50.A" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3766*"/>
+    </style:style>
+    <style:style style:name="Таблица50.B" style:family="table-column">
+      <style:table-column-properties style:column-width="14.693cm" style:rel-column-width="58002*"/>
+    </style:style>
+    <style:style style:name="Таблица50.C" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3767*"/>
+    </style:style>
+    <style:style style:name="Таблица50.A1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="bottom" fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица50.B1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица51" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins" style:writing-mode="page"/>
+    </style:style>
+    <style:style style:name="Таблица51.A" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3766*"/>
+    </style:style>
+    <style:style style:name="Таблица51.B" style:family="table-column">
+      <style:table-column-properties style:column-width="14.693cm" style:rel-column-width="58002*"/>
+    </style:style>
+    <style:style style:name="Таблица51.C" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3767*"/>
+    </style:style>
+    <style:style style:name="Таблица51.A1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="bottom" fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица51.B1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица58" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins"/>
+    </style:style>
+    <style:style style:name="Таблица58.A" style:family="table-column">
+      <style:table-column-properties style:column-width="16.602cm" style:rel-column-width="65535*"/>
+    </style:style>
+    <style:style style:name="Таблица58.A1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.5pt solid #000000"/>
+    </style:style>
+    <style:style style:name="Таблица59" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins"/>
+    </style:style>
+    <style:style style:name="Таблица59.A" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3766*"/>
+    </style:style>
+    <style:style style:name="Таблица59.B" style:family="table-column">
+      <style:table-column-properties style:column-width="14.693cm" style:rel-column-width="58002*"/>
+    </style:style>
+    <style:style style:name="Таблица59.C" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3767*"/>
+    </style:style>
+    <style:style style:name="Таблица59.A1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="bottom" fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица59.B1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица60" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins" style:writing-mode="page"/>
+    </style:style>
+    <style:style style:name="Таблица60.A" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3766*"/>
+    </style:style>
+    <style:style style:name="Таблица60.B" style:family="table-column">
+      <style:table-column-properties style:column-width="14.693cm" style:rel-column-width="58002*"/>
+    </style:style>
+    <style:style style:name="Таблица60.C" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3767*"/>
+    </style:style>
+    <style:style style:name="Таблица60.A1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="bottom" fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица60.B1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица67" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins"/>
+    </style:style>
+    <style:style style:name="Таблица67.A" style:family="table-column">
+      <style:table-column-properties style:column-width="16.602cm" style:rel-column-width="65535*"/>
+    </style:style>
+    <style:style style:name="Таблица67.A1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.5pt solid #000000"/>
+    </style:style>
+    <style:style style:name="Таблица68" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins"/>
+    </style:style>
+    <style:style style:name="Таблица68.A" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3766*"/>
+    </style:style>
+    <style:style style:name="Таблица68.B" style:family="table-column">
+      <style:table-column-properties style:column-width="14.693cm" style:rel-column-width="58002*"/>
+    </style:style>
+    <style:style style:name="Таблица68.C" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3767*"/>
+    </style:style>
+    <style:style style:name="Таблица68.A1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="bottom" fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица68.B1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица69" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins" style:writing-mode="page"/>
+    </style:style>
+    <style:style style:name="Таблица69.A" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3766*"/>
+    </style:style>
+    <style:style style:name="Таблица69.B" style:family="table-column">
+      <style:table-column-properties style:column-width="14.693cm" style:rel-column-width="58002*"/>
+    </style:style>
+    <style:style style:name="Таблица69.C" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3767*"/>
+    </style:style>
+    <style:style style:name="Таблица69.A1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="bottom" fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица69.B1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица77" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins"/>
+    </style:style>
+    <style:style style:name="Таблица77.A" style:family="table-column">
+      <style:table-column-properties style:column-width="16.602cm" style:rel-column-width="65535*"/>
+    </style:style>
+    <style:style style:name="Таблица77.A1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.5pt solid #000000"/>
+    </style:style>
+    <style:style style:name="Таблица78" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins"/>
+    </style:style>
+    <style:style style:name="Таблица78.A" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3766*"/>
+    </style:style>
+    <style:style style:name="Таблица78.B" style:family="table-column">
+      <style:table-column-properties style:column-width="14.693cm" style:rel-column-width="58002*"/>
+    </style:style>
+    <style:style style:name="Таблица78.C" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3767*"/>
+    </style:style>
+    <style:style style:name="Таблица78.A1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="bottom" fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица78.B1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица79" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins" style:writing-mode="page"/>
+    </style:style>
+    <style:style style:name="Таблица79.A" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3766*"/>
+    </style:style>
+    <style:style style:name="Таблица79.B" style:family="table-column">
+      <style:table-column-properties style:column-width="14.693cm" style:rel-column-width="58002*"/>
+    </style:style>
+    <style:style style:name="Таблица79.C" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3767*"/>
+    </style:style>
+    <style:style style:name="Таблица79.A1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="bottom" fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица79.B1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица85" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins"/>
+    </style:style>
+    <style:style style:name="Таблица85.A" style:family="table-column">
+      <style:table-column-properties style:column-width="16.602cm" style:rel-column-width="65535*"/>
+    </style:style>
+    <style:style style:name="Таблица85.A1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.5pt solid #000000"/>
+    </style:style>
+    <style:style style:name="Таблица86" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins"/>
+    </style:style>
+    <style:style style:name="Таблица86.A" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3766*"/>
+    </style:style>
+    <style:style style:name="Таблица86.B" style:family="table-column">
+      <style:table-column-properties style:column-width="14.693cm" style:rel-column-width="58002*"/>
+    </style:style>
+    <style:style style:name="Таблица86.C" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3767*"/>
+    </style:style>
+    <style:style style:name="Таблица86.A1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="bottom" fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица86.B1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица87" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins" style:writing-mode="page"/>
+    </style:style>
+    <style:style style:name="Таблица87.A" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3766*"/>
+    </style:style>
+    <style:style style:name="Таблица87.B" style:family="table-column">
+      <style:table-column-properties style:column-width="14.693cm" style:rel-column-width="58002*"/>
+    </style:style>
+    <style:style style:name="Таблица87.C" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3767*"/>
+    </style:style>
+    <style:style style:name="Таблица87.A1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="bottom" fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица87.B1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица96" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins"/>
+    </style:style>
+    <style:style style:name="Таблица96.A" style:family="table-column">
+      <style:table-column-properties style:column-width="16.602cm" style:rel-column-width="65535*"/>
+    </style:style>
+    <style:style style:name="Таблица96.A1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.5pt solid #000000"/>
+    </style:style>
+    <style:style style:name="Таблица99" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins"/>
+    </style:style>
+    <style:style style:name="Таблица99.A" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3766*"/>
+    </style:style>
+    <style:style style:name="Таблица99.B" style:family="table-column">
+      <style:table-column-properties style:column-width="14.693cm" style:rel-column-width="58002*"/>
+    </style:style>
+    <style:style style:name="Таблица99.C" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3767*"/>
+    </style:style>
+    <style:style style:name="Таблица99.A1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="bottom" fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица99.B1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица102" style:family="table">
+      <style:table-properties style:width="16.602cm" table:align="margins" style:writing-mode="page"/>
+    </style:style>
+    <style:style style:name="Таблица102.A" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3766*"/>
+    </style:style>
+    <style:style style:name="Таблица102.B" style:family="table-column">
+      <style:table-column-properties style:column-width="14.693cm" style:rel-column-width="58002*"/>
+    </style:style>
+    <style:style style:name="Таблица102.C" style:family="table-column">
+      <style:table-column-properties style:column-width="0.954cm" style:rel-column-width="3767*"/>
+    </style:style>
+    <style:style style:name="Таблица102.A1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="bottom" fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="Таблица102.B1" style:family="table-cell">
+      <style:table-cell-properties fo:padding="0.097cm" fo:border="none"/>
+    </style:style>
+    <style:style style:name="MP1" style:family="paragraph" style:parent-style-name="Header">
+      <style:text-properties fo:font-size="6pt" style:font-size-asian="5.25pt" style:font-size-complex="6pt"/>
+    </style:style>
+    <style:style style:name="MP2" style:family="paragraph" style:parent-style-name="Footer">
+      <style:text-properties fo:font-size="6pt" style:font-size-asian="5.25pt" style:font-size-complex="6pt"/>
+    </style:style>
+    <style:style style:name="MP3" style:family="paragraph" style:parent-style-name="ВерхнийКолонтитул">
+      <style:text-properties style:font-name="PT Astra Sans2" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:paragraph-rsid="01737423" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+    </style:style>
+    <style:style style:name="MP4" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+      <style:text-properties fo:font-size="10pt" officeooo:rsid="0032029d" officeooo:paragraph-rsid="0032029d" style:font-size-asian="9.5pt" style:font-size-complex="10.8999996185303pt"/>
+    </style:style>
+    <style:style style:name="MP5" style:family="paragraph" style:parent-style-name="НижнийКолонтитул">
+      <style:text-properties fo:font-size="8pt" officeooo:paragraph-rsid="01737423" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+    </style:style>
+    <style:style style:name="MP6" style:family="paragraph" style:parent-style-name="НижнийКолонтитул">
+      <style:text-properties fo:font-size="8pt" officeooo:paragraph-rsid="01486bb7" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+    </style:style>
+    <style:style style:name="MP7" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+      <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+      <style:text-properties style:font-name="PT Astra Sans" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+    </style:style>
+    <style:style style:name="MP8" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+      <style:text-properties style:font-name="PT Astra Sans" fo:font-size="10pt" officeooo:rsid="0032029d" officeooo:paragraph-rsid="0032029d" style:font-size-asian="9.5pt" style:font-size-complex="10.8999996185303pt"/>
+    </style:style>
+    <style:style style:name="MP9" style:family="paragraph" style:parent-style-name="НижнийКолонтитул">
+      <style:text-properties fo:font-size="8pt" officeooo:rsid="00e80463" officeooo:paragraph-rsid="01486bb7" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+    </style:style>
+    <style:style style:name="MP10" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+      <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+      <style:text-properties fo:font-size="10pt" style:font-size-asian="9.5pt" style:font-size-complex="10.8999996185303pt"/>
+    </style:style>
+    <style:style style:name="MP11" style:family="paragraph" style:parent-style-name="ВерхнийКолонтитул">
+      <style:text-properties style:font-name="PT Astra Sans2" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:paragraph-rsid="00e61e5a" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+    </style:style>
+    <style:style style:name="MP12" style:family="paragraph" style:parent-style-name="НижнийКолонтитул">
+      <style:text-properties fo:font-size="8pt" officeooo:paragraph-rsid="00e80463" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+    </style:style>
+    <style:style style:name="MP13" style:family="paragraph" style:parent-style-name="НижнийКолонтитул">
+      <style:text-properties fo:font-size="8pt" officeooo:paragraph-rsid="0173d4a5" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+    </style:style>
+    <style:style style:name="MP14" style:family="paragraph" style:parent-style-name="ВерхнийКолонтитул">
+      <style:text-properties style:font-name="PT Astra Sans2" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:paragraph-rsid="01749b8b" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+    </style:style>
+    <style:style style:name="MP15" style:family="paragraph" style:parent-style-name="НижнийКолонтитул">
+      <style:text-properties fo:font-size="8pt" officeooo:paragraph-rsid="01749b8b" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+    </style:style>
+    <style:style style:name="MP16" style:family="paragraph" style:parent-style-name="ВерхнийКолонтитул">
+      <style:text-properties style:font-name="PT Astra Sans2" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:paragraph-rsid="0173ea00" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+    </style:style>
+    <style:style style:name="MP17" style:family="paragraph" style:parent-style-name="НижнийКолонтитул">
+      <style:text-properties fo:font-size="8pt" officeooo:paragraph-rsid="0173ea00" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+    </style:style>
+    <style:style style:name="MP18" style:family="paragraph" style:parent-style-name="ВерхнийКолонтитул">
+      <style:text-properties style:font-name="PT Astra Sans2" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:paragraph-rsid="0173b038" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+    </style:style>
+    <style:style style:name="MP19" style:family="paragraph" style:parent-style-name="НижнийКолонтитул">
+      <style:text-properties fo:font-size="8pt" officeooo:paragraph-rsid="0173b038" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+    </style:style>
+    <style:style style:name="MP20" style:family="paragraph" style:parent-style-name="НижнийКолонтитул">
+      <style:text-properties fo:font-size="8pt" officeooo:paragraph-rsid="014c63a8" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+    </style:style>
+    <style:style style:name="MP21" style:family="paragraph" style:parent-style-name="ВерхнийКолонтитул">
+      <style:text-properties style:font-name="PT Astra Sans2" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:paragraph-rsid="01732481" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+    </style:style>
+    <style:style style:name="MP22" style:family="paragraph" style:parent-style-name="НижнийКолонтитул">
+      <style:text-properties fo:font-size="8pt" officeooo:paragraph-rsid="01732481" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+    </style:style>
+    <style:style style:name="MP23" style:family="paragraph" style:parent-style-name="ВерхнийКолонтитул">
+      <style:text-properties style:font-name="PT Astra Sans2" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:paragraph-rsid="01747293" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+    </style:style>
+    <style:style style:name="MP24" style:family="paragraph" style:parent-style-name="НижнийКолонтитул">
+      <style:text-properties fo:font-size="8pt" officeooo:paragraph-rsid="01747293" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+    </style:style>
+    <style:style style:name="MP25" style:family="paragraph" style:parent-style-name="ВерхнийКолонтитул">
+      <style:text-properties style:font-name="PT Astra Sans2" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:paragraph-rsid="0174a8d2" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+    </style:style>
+    <style:style style:name="MP26" style:family="paragraph" style:parent-style-name="НижнийКолонтитул">
+      <style:text-properties fo:font-size="8pt" officeooo:paragraph-rsid="0174a8d2" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+    </style:style>
+    <style:style style:name="MT1" style:family="text">
+      <style:text-properties officeooo:rsid="016adeea"/>
+    </style:style>
+    <style:style style:name="MT2" style:family="text">
+      <style:text-properties fo:font-style="italic" officeooo:rsid="00e61e5a" style:font-style-asian="italic" style:font-style-complex="italic"/>
+    </style:style>
+    <style:style style:name="MT3" style:family="text">
+      <style:text-properties officeooo:rsid="01029b45"/>
+    </style:style>
+    <style:style style:name="MT4" style:family="text">
+      <style:text-properties officeooo:rsid="015625df"/>
+    </style:style>
+    <style:style style:name="MT5" style:family="text">
+      <style:text-properties officeooo:rsid="0172cae9"/>
+    </style:style>
+    <style:style style:name="MT6" style:family="text">
+      <style:text-properties officeooo:rsid="001250fe"/>
+    </style:style>
+    <style:style style:name="MT7" style:family="text">
+      <style:text-properties fo:font-style="italic" officeooo:rsid="00e80463" style:font-style-asian="italic" style:font-style-complex="italic"/>
+    </style:style>
+    <style:style style:name="MT8" style:family="text">
+      <style:text-properties officeooo:rsid="0103b968"/>
+    </style:style>
+    <style:style style:name="MT9" style:family="text">
+      <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0172cae9"/>
+    </style:style>
+    <style:style style:name="MT10" style:family="text">
+      <style:text-properties fo:language="ru" fo:country="RU" officeooo:rsid="01584af9"/>
+    </style:style>
+    <style:style style:name="MT11" style:family="text">
+      <style:text-properties officeooo:rsid="00cd9c19"/>
+    </style:style>
+    <style:style style:name="MT12" style:family="text">
+      <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0172ccc0"/>
+    </style:style>
+    <style:style style:name="MT13" style:family="text">
+      <style:text-properties officeooo:rsid="0173d4a5"/>
+    </style:style>
+    <style:style style:name="MT14" style:family="text">
+      <style:text-properties officeooo:rsid="0171a727"/>
+    </style:style>
+    <style:style style:name="MT15" style:family="text">
+      <style:text-properties officeooo:rsid="00566162"/>
+    </style:style>
+    <style:style style:name="MT16" style:family="text">
+      <style:text-properties officeooo:rsid="001324df"/>
+    </style:style>
+    <style:style style:name="MT17" style:family="text">
+      <style:text-properties officeooo:rsid="005f8b81"/>
+    </style:style>
+    <style:style style:name="MT18" style:family="text">
+      <style:text-properties officeooo:rsid="0173539f"/>
+    </style:style>
+    <style:style style:name="MT19" style:family="text">
+      <style:text-properties officeooo:rsid="017596d3"/>
+    </style:style>
+    <style:style style:name="MT20" style:family="text">
+      <style:text-properties officeooo:rsid="0014d1df"/>
+    </style:style>
+    <style:style style:name="MT21" style:family="text">
+      <style:text-properties officeooo:rsid="011b02e2"/>
+    </style:style>
+    <style:style style:name="MT22" style:family="text">
+      <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="011bb140"/>
+    </style:style>
+    <style:style style:name="MT23" style:family="text">
+      <style:text-properties officeooo:rsid="00fe4f43"/>
+    </style:style>
+    <style:style style:name="MT24" style:family="text">
+      <style:text-properties officeooo:rsid="00158621"/>
+    </style:style>
+    <style:page-layout style:name="Mpm1">
+      <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+        <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+      </style:page-layout-properties>
+      <style:header-style/>
+      <style:footer-style/>
+    </style:page-layout>
+    <style:page-layout style:name="Mpm2">
+      <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:margin-left="0cm" fo:margin-right="0cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="44" style:layout-grid-base-height="0.55cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="true" style:layout-grid-display="true" draw:fill="bitmap" draw:fill-image-name="ea_5f_cover_5f_2018_5f_web" style:repeat="stretch" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+        <style:background-image xlink:href="Pictures/10000000000009B000000DACE7BAC671BFAE02D2.png" xlink:type="simple" xlink:actuate="onLoad" style:repeat="stretch"/>
+        <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+      </style:page-layout-properties>
+      <style:header-style/>
+      <style:footer-style/>
+    </style:page-layout>
+    <style:page-layout style:name="Mpm3">
+      <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1.3cm" fo:margin-bottom="1.401cm" fo:margin-left="1.799cm" fo:margin-right="1.799cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="44" style:layout-grid-base-height="0.55cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="true" style:layout-grid-display="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+        <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+      </style:page-layout-properties>
+      <style:header-style/>
+      <style:footer-style/>
+    </style:page-layout>
+    <style:page-layout style:name="Mpm4">
+      <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1.3cm" fo:margin-bottom="1.401cm" fo:margin-left="2.2cm" fo:margin-right="2.2cm" fo:background-color="transparent" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="44" style:layout-grid-base-height="0.55cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="true" style:layout-grid-display="true" draw:fill="none" draw:fill-color="#729fcf" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+        <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+      </style:page-layout-properties>
+      <style:header-style>
+        <style:header-footer-properties fo:min-height="0.101cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0cm" fo:background-color="transparent" style:dynamic-spacing="false" draw:fill="none" draw:fill-color="#729fcf"/>
+      </style:header-style>
+      <style:footer-style>
+        <style:header-footer-properties fo:min-height="0.3cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.199cm" fo:background-color="transparent" style:dynamic-spacing="false" draw:fill="none" draw:fill-color="#729fcf"/>
+      </style:footer-style>
+    </style:page-layout>
+    <style:page-layout style:name="Mpm5">
+      <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1.3cm" fo:margin-bottom="1.401cm" fo:margin-left="2.2cm" fo:margin-right="2.2cm" fo:background-color="transparent" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" draw:fill="none" draw:fill-color="#729fcf" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+        <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+      </style:page-layout-properties>
+      <style:header-style>
+        <style:header-footer-properties fo:min-height="0.101cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0cm" fo:background-color="transparent" style:dynamic-spacing="false" draw:fill="none" draw:fill-color="#729fcf"/>
+      </style:header-style>
+      <style:footer-style>
+        <style:header-footer-properties fo:min-height="0.3cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.199cm" fo:background-color="transparent" style:dynamic-spacing="false" draw:fill="none" draw:fill-color="#729fcf"/>
+      </style:footer-style>
+    </style:page-layout>
+    <style:page-layout style:name="Mpm6">
+      <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+        <style:footnote-sep style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+      </style:page-layout-properties>
+      <style:header-style/>
+      <style:footer-style/>
+    </style:page-layout>
+    <style:style style:name="Mdp1" style:family="drawing-page">
+      <style:drawing-page-properties draw:background-size="full"/>
+    </style:style>
+    <style:style style:name="Mdp2" style:family="drawing-page">
+      <style:drawing-page-properties draw:fill="bitmap" draw:background-size="border" draw:fill-image-name="ea_5f_cover_5f_2018_5f_web" style:repeat="stretch"/>
+    </style:style>
+    <style:style style:name="Mdp3" style:family="drawing-page">
+      <style:drawing-page-properties draw:fill="none" draw:background-size="full" draw:fill-color="#729fcf"/>
+    </style:style>
+  </office:automatic-styles>
+  <office:master-styles>
+    <style:master-page style:name="Standard" style:page-layout-name="Mpm1" draw:style-name="Mdp1"/>
+    <style:master-page style:name="Обложка" style:page-layout-name="Mpm2" draw:style-name="Mdp2"/>
+    <style:master-page style:name="Титульная_20_Страница" style:display-name="Титульная Страница" style:page-layout-name="Mpm3" draw:style-name="Mdp1"/>
+    <style:master-page style:name="Статья_20_Едронова" style:display-name="Статья Едронова" style:page-layout-name="Mpm4" draw:style-name="Mdp3">
+      <style:header>
+        <table:table table:name="Таблица8" table:style-name="Таблица8">
+          <table:table-column table:style-name="Таблица8.A"/>
+          <table:table-row table:style-name="TableLine94128188191408">
+            <table:table-cell table:style-name="Таблица8.A1" office:value-type="string">
+              <text:p text:style-name="MP3"><text:span text:style-name="MT1">V.N. Edronova</text:span> / <text:span text:style-name="MT2">Economic Analysis: Theory and Practice</text:span>, 20<text:span text:style-name="MT3">22</text:span>, vol. <text:span text:style-name="MT4">21</text:span>, iss. <text:span text:style-name="MT5">7</text:span>, pp. <text:span text:style-name="MT6">1194</text:span>–<text:span text:style-name="MT6">1213</text:span></text:p>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP1"/>
+      </style:header>
+      <style:footer>
+        <table:table table:name="Таблица11" table:style-name="Таблица11">
+          <table:table-column table:style-name="Таблица11.A"/>
+          <table:table-column table:style-name="Таблица11.B"/>
+          <table:table-column table:style-name="Таблица11.C"/>
+          <table:table-row table:style-name="TableLine94128188263776">
+            <table:table-cell table:style-name="Таблица11.A1" office:value-type="string">
+              <text:p text:style-name="MP4"/>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица11.B1" office:value-type="string">
+              <text:p text:style-name="MP5"><text:span text:style-name="MT1">В.Н. Едронова</text:span> / <text:span text:style-name="MT7">Экономический анализ: теория и практика</text:span>, 20<text:span text:style-name="MT8">22</text:span>, т. <text:span text:style-name="MT4">21</text:span>, вып. <text:span text:style-name="MT9">7</text:span><text:span text:style-name="MT10">,</text:span> стр. <text:span text:style-name="MT6">1194</text:span>–<text:span text:style-name="MT6">1213</text:span></text:p>
+              <text:p text:style-name="MP6">http://fin-izdat.ru/journal/<text:span text:style-name="MT11">analiz/</text:span></text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица11.A1" office:value-type="string">
+              <text:p text:style-name="MP7">
+                <text:page-number text:select-page="current">1213</text:page-number>
+              </text:p>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP2"/>
+      </style:footer>
+      <style:footer-left>
+        <table:table table:name="Таблица12" table:style-name="Таблица12">
+          <table:table-column table:style-name="Таблица12.A"/>
+          <table:table-column table:style-name="Таблица12.B"/>
+          <table:table-column table:style-name="Таблица12.C"/>
+          <table:table-row table:style-name="TableLine94128188332368">
+            <table:table-cell table:style-name="Таблица12.A1" office:value-type="string">
+              <text:p text:style-name="MP8">
+                <text:page-number text:select-page="current">1212</text:page-number>
+              </text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица12.B1" office:value-type="string">
+              <text:p text:style-name="MP5"><text:span text:style-name="MT1">В.Н. Едронова</text:span> / <text:span text:style-name="MT7">Экономический анализ: теория и практика</text:span>, 20<text:span text:style-name="MT8">22</text:span>, т. <text:span text:style-name="MT4">21</text:span>, вып. <text:span text:style-name="MT12">7</text:span>, стр. <text:span text:style-name="MT6">1194</text:span>–<text:span text:style-name="MT6">1213</text:span></text:p>
+              <text:p text:style-name="MP9">http://fin-izdat.ru/journal/<text:span text:style-name="MT11">analiz/</text:span></text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица12.A1" office:value-type="string">
+              <text:p text:style-name="MP10"/>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP2"/>
+      </style:footer-left>
+    </style:master-page>
+    <style:master-page style:name="Статья_20_Когденко" style:display-name="Статья Когденко" style:page-layout-name="Mpm4" draw:style-name="Mdp3">
+      <style:header>
+        <table:table table:name="Таблица23" table:style-name="Таблица23">
+          <table:table-column table:style-name="Таблица23.A"/>
+          <table:table-row table:style-name="TableLine94128188312864">
+            <table:table-cell table:style-name="Таблица23.A1" office:value-type="string">
+              <text:p text:style-name="MP11"><text:span text:style-name="MT13">V.G Kogdenko</text:span> / <text:span text:style-name="MT2">Economic Analysis: Theory and Practice</text:span>, 20<text:span text:style-name="MT3">22</text:span>, vol. <text:span text:style-name="MT4">21</text:span>, iss. <text:span text:style-name="MT5">7</text:span>, pp. <text:span text:style-name="MT6">1214</text:span>–<text:span text:style-name="MT6">1239</text:span></text:p>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP1"/>
+      </style:header>
+      <style:footer>
+        <table:table table:name="Таблица24" table:style-name="Таблица24">
+          <table:table-column table:style-name="Таблица24.A"/>
+          <table:table-column table:style-name="Таблица24.B"/>
+          <table:table-column table:style-name="Таблица24.C"/>
+          <table:table-row table:style-name="TableLine94128188339136">
+            <table:table-cell table:style-name="Таблица24.A1" office:value-type="string">
+              <text:p text:style-name="MP4"/>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица24.B1" office:value-type="string">
+              <text:p text:style-name="MP12"><text:span text:style-name="MT13">В.Г. Когденко</text:span> / <text:span text:style-name="MT7">Экономический анализ: теория и практика</text:span>, 20<text:span text:style-name="MT8">22</text:span>, т. <text:span text:style-name="MT4">21</text:span>, вып. <text:span text:style-name="MT9">7</text:span><text:span text:style-name="MT10">,</text:span> стр. <text:span text:style-name="MT6">1214</text:span>–<text:span text:style-name="MT6">1239</text:span></text:p>
+              <text:p text:style-name="MP6">http://fin-izdat.ru/journal/<text:span text:style-name="MT11">analiz/</text:span></text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица24.A1" office:value-type="string">
+              <text:p text:style-name="MP7">
+                <text:page-number text:select-page="current">1239</text:page-number>
+              </text:p>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP2"/>
+      </style:footer>
+      <style:footer-left>
+        <table:table table:name="Таблица25" table:style-name="Таблица25">
+          <table:table-column table:style-name="Таблица25.A"/>
+          <table:table-column table:style-name="Таблица25.B"/>
+          <table:table-column table:style-name="Таблица25.C"/>
+          <table:table-row table:style-name="TableLine94128188378256">
+            <table:table-cell table:style-name="Таблица25.A1" office:value-type="string">
+              <text:p text:style-name="MP8">
+                <text:page-number text:select-page="current">1238</text:page-number>
+              </text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица25.B1" office:value-type="string">
+              <text:p text:style-name="MP13"><text:span text:style-name="MT13">В.Г. Когденко</text:span> / <text:span text:style-name="MT7">Экономический анализ: теория и практика</text:span>, 20<text:span text:style-name="MT8">22</text:span>, т. <text:span text:style-name="MT4">21</text:span>, вып. <text:span text:style-name="MT12">7</text:span>, стр. <text:span text:style-name="MT6">1214</text:span>–<text:span text:style-name="MT6">1239</text:span></text:p>
+              <text:p text:style-name="MP9">http://fin-izdat.ru/journal/<text:span text:style-name="MT11">analiz/</text:span></text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица25.A1" office:value-type="string">
+              <text:p text:style-name="MP10"/>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="ТаблицаТело"/>
+      </style:footer-left>
+    </style:master-page>
+    <style:master-page style:name="Статья_20_Мельников" style:display-name="Статья Мельников" style:page-layout-name="Mpm4" draw:style-name="Mdp3">
+      <style:header>
+        <table:table table:name="Таблица36" table:style-name="Таблица36">
+          <table:table-column table:style-name="Таблица36.A"/>
+          <table:table-row table:style-name="TableLine94128188354192">
+            <table:table-cell table:style-name="Таблица36.A1" office:value-type="string">
+              <text:p text:style-name="MP14">R.M. Mel'nikov / <text:span text:style-name="MT2">Economic Analysis: Theory and Practice</text:span>, 20<text:span text:style-name="MT3">22</text:span>, vol. <text:span text:style-name="MT4">21</text:span>, iss. <text:span text:style-name="MT5">7</text:span>, pp. <text:span text:style-name="MT6">1240</text:span>–<text:span text:style-name="MT6">1264</text:span></text:p>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP1"/>
+      </style:header>
+      <style:footer>
+        <table:table table:name="Таблица37" table:style-name="Таблица37">
+          <table:table-column table:style-name="Таблица37.A"/>
+          <table:table-column table:style-name="Таблица37.B"/>
+          <table:table-column table:style-name="Таблица37.C"/>
+          <table:table-row table:style-name="TableLine94128188387344">
+            <table:table-cell table:style-name="Таблица37.A1" office:value-type="string">
+              <text:p text:style-name="MP4"/>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица37.B1" office:value-type="string">
+              <text:p text:style-name="MP15"><text:span text:style-name="MT14">Р.М. Мельников</text:span> / <text:span text:style-name="MT7">Экономический анализ: теория и практика</text:span>, 20<text:span text:style-name="MT8">22</text:span>, т. <text:span text:style-name="MT4">21</text:span>, вып. <text:span text:style-name="MT9">7</text:span><text:span text:style-name="MT10">,</text:span> стр. <text:span text:style-name="MT6">1240</text:span>–<text:span text:style-name="MT6">1264</text:span></text:p>
+              <text:p text:style-name="MP6">http://fin-izdat.ru/journal/<text:span text:style-name="MT11">analiz/</text:span></text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица37.A1" office:value-type="string">
+              <text:p text:style-name="MP7">
+                <text:page-number text:select-page="current">1263</text:page-number>
+              </text:p>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP2"/>
+      </style:footer>
+      <style:footer-left>
+        <table:table table:name="Таблица38" table:style-name="Таблица38">
+          <table:table-column table:style-name="Таблица38.A"/>
+          <table:table-column table:style-name="Таблица38.B"/>
+          <table:table-column table:style-name="Таблица38.C"/>
+          <table:table-row table:style-name="TableLine94128188416640">
+            <table:table-cell table:style-name="Таблица38.A1" office:value-type="string">
+              <text:p text:style-name="MP8">
+                <text:page-number text:select-page="current">1264</text:page-number>
+              </text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица38.B1" office:value-type="string">
+              <text:p text:style-name="MP15"><text:span text:style-name="MT14">Р.М. Мельников</text:span> / <text:span text:style-name="MT7">Экономический анализ: теория и практика</text:span>, 20<text:span text:style-name="MT8">22</text:span>, т. <text:span text:style-name="MT4">21</text:span>, вып. <text:span text:style-name="MT12">7</text:span>, стр. <text:span text:style-name="MT6">1240</text:span>–<text:span text:style-name="MT6">1264</text:span></text:p>
+              <text:p text:style-name="MP9">http://fin-izdat.ru/journal/<text:span text:style-name="MT11">analiz/</text:span></text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица38.A1" office:value-type="string">
+              <text:p text:style-name="MP10"/>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP2"/>
+      </style:footer-left>
+    </style:master-page>
+    <style:master-page style:name="Статья_20_Ратнер" style:display-name="Статья Ратнер" style:page-layout-name="Mpm4" draw:style-name="Mdp3">
+      <style:header>
+        <table:table table:name="Таблица49" table:style-name="Таблица49">
+          <table:table-column table:style-name="Таблица49.A"/>
+          <table:table-row table:style-name="TableLine94128188361056">
+            <table:table-cell table:style-name="Таблица49.A1" office:value-type="string">
+              <text:p text:style-name="MP16">S.V. Ratner <text:span text:style-name="MT15">et al.</text:span> / <text:span text:style-name="MT2">Economic Analysis: Theory and Practice</text:span>, 20<text:span text:style-name="MT3">22</text:span>, vol. <text:span text:style-name="MT4">21</text:span>, iss. <text:span text:style-name="MT5">7</text:span>, pp. <text:span text:style-name="MT16">1265</text:span>–<text:span text:style-name="MT16">1290</text:span></text:p>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP1"/>
+      </style:header>
+      <style:footer>
+        <table:table table:name="Таблица50" table:style-name="Таблица50">
+          <table:table-column table:style-name="Таблица50.A"/>
+          <table:table-column table:style-name="Таблица50.B"/>
+          <table:table-column table:style-name="Таблица50.C"/>
+          <table:table-row table:style-name="TableLine94128188338688">
+            <table:table-cell table:style-name="Таблица50.A1" office:value-type="string">
+              <text:p text:style-name="MP4"/>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица50.B1" office:value-type="string">
+              <text:p text:style-name="MP17">С.В. Ратнер <text:span text:style-name="MT17">и др.</text:span> / <text:span text:style-name="MT7">Экономический анализ: теория и практика</text:span>, 20<text:span text:style-name="MT8">22</text:span>, т. <text:span text:style-name="MT4">21</text:span>, вып. <text:span text:style-name="MT9">7</text:span><text:span text:style-name="MT10">,</text:span> стр. <text:span text:style-name="MT16">1265</text:span>–<text:span text:style-name="MT16">1290</text:span></text:p>
+              <text:p text:style-name="MP6">http://fin-izdat.ru/journal/<text:span text:style-name="MT11">analiz/</text:span></text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица50.A1" office:value-type="string">
+              <text:p text:style-name="MP7">
+                <text:page-number text:select-page="current">1289</text:page-number>
+              </text:p>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP2"/>
+      </style:footer>
+      <style:footer-left>
+        <table:table table:name="Таблица51" table:style-name="Таблица51">
+          <table:table-column table:style-name="Таблица51.A"/>
+          <table:table-column table:style-name="Таблица51.B"/>
+          <table:table-column table:style-name="Таблица51.C"/>
+          <table:table-row table:style-name="TableLine94128188450304">
+            <table:table-cell table:style-name="Таблица51.A1" office:value-type="string">
+              <text:p text:style-name="MP8">
+                <text:page-number text:select-page="current">1290</text:page-number>
+              </text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица51.B1" office:value-type="string">
+              <text:p text:style-name="MP17">С.В. Ратнер <text:span text:style-name="MT17">и др.</text:span> / <text:span text:style-name="MT7">Экономический анализ: теория и практика</text:span>, 20<text:span text:style-name="MT8">22</text:span>, т. <text:span text:style-name="MT4">21</text:span>, вып. <text:span text:style-name="MT12">7</text:span>, стр. <text:span text:style-name="MT16">1265</text:span>–<text:span text:style-name="MT16">1290</text:span></text:p>
+              <text:p text:style-name="MP9">http://fin-izdat.ru/journal/<text:span text:style-name="MT11">analiz/</text:span></text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица51.A1" office:value-type="string">
+              <text:p text:style-name="MP10"/>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP2"/>
+      </style:footer-left>
+    </style:master-page>
+    <style:master-page style:name="Статья_20_Стрижакова" style:display-name="Статья Стрижакова" style:page-layout-name="Mpm4" draw:style-name="Mdp3">
+      <style:header>
+        <table:table table:name="Таблица58" table:style-name="Таблица58">
+          <table:table-column table:style-name="Таблица58.A"/>
+          <table:table-row table:style-name="TableLine94128188436384">
+            <table:table-cell table:style-name="Таблица58.A1" office:value-type="string">
+              <text:p text:style-name="MP18">E.N. Strizhakova <text:span text:style-name="MT15">et al.</text:span> / <text:span text:style-name="MT2">Economic Analysis: Theory and Practice</text:span>, 20<text:span text:style-name="MT3">22</text:span>, vol. <text:span text:style-name="MT4">21</text:span>, iss. <text:span text:style-name="MT5">7</text:span>, pp. <text:span text:style-name="MT16">1291</text:span>–<text:span text:style-name="MT16">1311</text:span></text:p>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP1"/>
+      </style:header>
+      <style:footer>
+        <table:table table:name="Таблица59" table:style-name="Таблица59">
+          <table:table-column table:style-name="Таблица59.A"/>
+          <table:table-column table:style-name="Таблица59.B"/>
+          <table:table-column table:style-name="Таблица59.C"/>
+          <table:table-row table:style-name="TableLine94128188459040">
+            <table:table-cell table:style-name="Таблица59.A1" office:value-type="string">
+              <text:p text:style-name="MP4"/>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица59.B1" office:value-type="string">
+              <text:p text:style-name="MP19"><text:span text:style-name="MT18">Е.Н. Стрижакова</text:span><text:span text:style-name="MT17">и др.</text:span> / <text:span text:style-name="MT7">Экономический анализ: теория и практика</text:span>, 20<text:span text:style-name="MT8">22</text:span>, т. <text:span text:style-name="MT4">21</text:span>, вып. <text:span text:style-name="MT9">7</text:span><text:span text:style-name="MT10">,</text:span> стр. <text:span text:style-name="MT16">1291</text:span>–<text:span text:style-name="MT16">1311</text:span></text:p>
+              <text:p text:style-name="MP6">http://fin-izdat.ru/journal/<text:span text:style-name="MT11">analiz/</text:span></text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица59.A1" office:value-type="string">
+              <text:p text:style-name="MP7">
+                <text:page-number text:select-page="current">1311</text:page-number>
+              </text:p>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP2"/>
+      </style:footer>
+      <style:footer-left>
+        <table:table table:name="Таблица60" table:style-name="Таблица60">
+          <table:table-column table:style-name="Таблица60.A"/>
+          <table:table-column table:style-name="Таблица60.B"/>
+          <table:table-column table:style-name="Таблица60.C"/>
+          <table:table-row table:style-name="TableLine94128188455152">
+            <table:table-cell table:style-name="Таблица60.A1" office:value-type="string">
+              <text:p text:style-name="MP8">
+                <text:page-number text:select-page="current">1310</text:page-number>
+              </text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица60.B1" office:value-type="string">
+              <text:p text:style-name="MP19"><text:span text:style-name="MT18">Е.Н. Стрижакова</text:span><text:span text:style-name="MT17">и др.</text:span> / <text:span text:style-name="MT7">Экономический анализ: теория и практика</text:span>, 20<text:span text:style-name="MT8">22</text:span>, т. <text:span text:style-name="MT4">21</text:span>, вып. <text:span text:style-name="MT12">7</text:span>, стр. <text:span text:style-name="MT16">1291</text:span>–<text:span text:style-name="MT16">1311</text:span></text:p>
+              <text:p text:style-name="MP9">http://fin-izdat.ru/journal/<text:span text:style-name="MT11">analiz/</text:span></text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица60.A1" office:value-type="string">
+              <text:p text:style-name="MP10"/>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP2"/>
+      </style:footer-left>
+    </style:master-page>
+    <style:master-page style:name="Статья_20_Панкова" style:display-name="Статья Панкова" style:page-layout-name="Mpm4" draw:style-name="Mdp3">
+      <style:header>
+        <table:table table:name="Таблица67" table:style-name="Таблица67">
+          <table:table-column table:style-name="Таблица67.A"/>
+          <table:table-row table:style-name="TableLine94128188440368">
+            <table:table-cell table:style-name="Таблица67.A1" office:value-type="string">
+              <text:p text:style-name="MP11"><text:span text:style-name="MT19">S.V. Pankova</text:span><text:span text:style-name="MT15">et al.</text:span> / <text:span text:style-name="MT2">Economic Analysis: Theory and Practice</text:span>, 20<text:span text:style-name="MT3">22</text:span>, vol. <text:span text:style-name="MT4">21</text:span>, iss. <text:span text:style-name="MT5">7</text:span>, pp. <text:span text:style-name="MT20">1312</text:span>–<text:span text:style-name="MT20">1329</text:span></text:p>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP1"/>
+      </style:header>
+      <style:footer>
+        <table:table table:name="Таблица68" table:style-name="Таблица68">
+          <table:table-column table:style-name="Таблица68.A"/>
+          <table:table-column table:style-name="Таблица68.B"/>
+          <table:table-column table:style-name="Таблица68.C"/>
+          <table:table-row table:style-name="TableLine94128188479712">
+            <table:table-cell table:style-name="Таблица68.A1" office:value-type="string">
+              <text:p text:style-name="MP4"/>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица68.B1" office:value-type="string">
+              <text:p text:style-name="MP12"><text:span text:style-name="MT19">С.В. Панкова и др.</text:span> / <text:span text:style-name="MT7">Экономический анализ: теория и практика</text:span>, 20<text:span text:style-name="MT8">22</text:span>, т. <text:span text:style-name="MT4">21</text:span>, вып. <text:span text:style-name="MT9">7</text:span><text:span text:style-name="MT10">,</text:span> стр. <text:span text:style-name="MT20">1312</text:span>–<text:span text:style-name="MT20">1329</text:span></text:p>
+              <text:p text:style-name="MP6">http://fin-izdat.ru/journal/<text:span text:style-name="MT11">analiz/</text:span></text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица68.A1" office:value-type="string">
+              <text:p text:style-name="MP7">
+                <text:page-number text:select-page="current">1329</text:page-number>
+              </text:p>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP2"/>
+      </style:footer>
+      <style:footer-left>
+        <table:table table:name="Таблица69" table:style-name="Таблица69">
+          <table:table-column table:style-name="Таблица69.A"/>
+          <table:table-column table:style-name="Таблица69.B"/>
+          <table:table-column table:style-name="Таблица69.C"/>
+          <table:table-row table:style-name="TableLine94128188476448">
+            <table:table-cell table:style-name="Таблица69.A1" office:value-type="string">
+              <text:p text:style-name="MP8">
+                <text:page-number text:select-page="current">1328</text:page-number>
+              </text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица69.B1" office:value-type="string">
+              <text:p text:style-name="MP20"><text:span text:style-name="MT19">С.В. Панкова</text:span><text:span text:style-name="MT17">и др.</text:span> / <text:span text:style-name="MT7">Экономический анализ: теория и практика</text:span>, 20<text:span text:style-name="MT8">22</text:span>, т. <text:span text:style-name="MT4">21</text:span>, вып. <text:span text:style-name="MT12">7</text:span>, стр. <text:span text:style-name="MT20">1312</text:span>–<text:span text:style-name="MT20">1329</text:span></text:p>
+              <text:p text:style-name="MP9">http://fin-izdat.ru/journal/<text:span text:style-name="MT11">analiz/</text:span></text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица69.A1" office:value-type="string">
+              <text:p text:style-name="MP10"/>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP2"/>
+      </style:footer-left>
+    </style:master-page>
+    <style:master-page style:name="Богданова" style:page-layout-name="Mpm5" draw:style-name="Mdp3">
+      <style:header>
+        <table:table table:name="Таблица77" table:style-name="Таблица77">
+          <table:table-column table:style-name="Таблица77.A"/>
+          <table:table-row table:style-name="TableLine94128188481136">
+            <table:table-cell table:style-name="Таблица77.A1" office:value-type="string">
+              <text:p text:style-name="MP21"><text:span text:style-name="MT21">A.L. Bogdanova</text:span> / <text:span text:style-name="MT2">Economic Analysis: Theory and Practice</text:span>, 20<text:span text:style-name="MT3">22</text:span>, vol. <text:span text:style-name="MT4">21</text:span>, iss. <text:span text:style-name="MT5">7</text:span>, pp. <text:span text:style-name="MT20">1330</text:span>–<text:span text:style-name="MT20">1348</text:span></text:p>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP1"/>
+      </style:header>
+      <style:footer>
+        <table:table table:name="Таблица78" table:style-name="Таблица78">
+          <table:table-column table:style-name="Таблица78.A"/>
+          <table:table-column table:style-name="Таблица78.B"/>
+          <table:table-column table:style-name="Таблица78.C"/>
+          <table:table-row table:style-name="TableLine94128188526560">
+            <table:table-cell table:style-name="Таблица78.A1" office:value-type="string">
+              <text:p text:style-name="MP4"/>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица78.B1" office:value-type="string">
+              <text:p text:style-name="MP22"><text:span text:style-name="MT21">А.Л. Богданова</text:span> / <text:span text:style-name="MT7">Экономический анализ: теория и практика</text:span>, 20<text:span text:style-name="MT8">22</text:span>, т. <text:span text:style-name="MT4">21</text:span>, вып. <text:span text:style-name="MT9">7</text:span><text:span text:style-name="MT10">,</text:span> стр. <text:span text:style-name="MT20">1330</text:span>–<text:span text:style-name="MT20">1348</text:span></text:p>
+              <text:p text:style-name="MP6">http://fin-izdat.ru/journal/<text:span text:style-name="MT11">analiz/</text:span></text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица78.A1" office:value-type="string">
+              <text:p text:style-name="MP7">
+                <text:page-number text:select-page="current">1339</text:page-number>
+              </text:p>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP2"/>
+      </style:footer>
+      <style:footer-left>
+        <table:table table:name="Таблица79" table:style-name="Таблица79">
+          <table:table-column table:style-name="Таблица79.A"/>
+          <table:table-column table:style-name="Таблица79.B"/>
+          <table:table-column table:style-name="Таблица79.C"/>
+          <table:table-row table:style-name="TableLine94128188551808">
+            <table:table-cell table:style-name="Таблица79.A1" office:value-type="string">
+              <text:p text:style-name="MP8">
+                <text:page-number text:select-page="current">1338</text:page-number>
+              </text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица79.B1" office:value-type="string">
+              <text:p text:style-name="MP22"><text:span text:style-name="MT21">А.Л. Богданова</text:span> / <text:span text:style-name="MT7">Экономический анализ: теория и практика</text:span>, 20<text:span text:style-name="MT8">22</text:span>, т. <text:span text:style-name="MT4">21</text:span>, вып. <text:span text:style-name="MT12">7</text:span>, стр. <text:span text:style-name="MT20">1330</text:span>–<text:span text:style-name="MT20">1348</text:span></text:p>
+              <text:p text:style-name="MP9">http://fin-izdat.ru/journal/<text:span text:style-name="MT11">analiz/</text:span></text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица79.A1" office:value-type="string">
+              <text:p text:style-name="MP10"/>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP2"/>
+      </style:footer-left>
+    </style:master-page>
+    <style:master-page style:name="Статья_20_Шимко" style:display-name="Статья Шимко" style:page-layout-name="Mpm4" draw:style-name="Mdp3">
+      <style:header>
+        <table:table table:name="Таблица85" table:style-name="Таблица85">
+          <table:table-column table:style-name="Таблица85.A"/>
+          <table:table-row table:style-name="TableLine94128188534960">
+            <table:table-cell table:style-name="Таблица85.A1" office:value-type="string">
+              <text:p text:style-name="MP23">O.V. Shimko / <text:span text:style-name="MT2">Economic Analysis: Theory and Practice</text:span>, 20<text:span text:style-name="MT3">22</text:span>, vol. <text:span text:style-name="MT4">21</text:span>, iss. <text:span text:style-name="MT5">7</text:span>, pp. <text:span text:style-name="MT20">1349</text:span>–<text:span text:style-name="MT20">1363</text:span></text:p>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP1"/>
+      </style:header>
+      <style:footer>
+        <table:table table:name="Таблица86" table:style-name="Таблица86">
+          <table:table-column table:style-name="Таблица86.A"/>
+          <table:table-column table:style-name="Таблица86.B"/>
+          <table:table-column table:style-name="Таблица86.C"/>
+          <table:table-row table:style-name="TableLine94128188531792">
+            <table:table-cell table:style-name="Таблица86.A1" office:value-type="string">
+              <text:p text:style-name="MP4"/>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица86.B1" office:value-type="string">
+              <text:p text:style-name="MP24"><text:span text:style-name="MT22">О.В. Шимко</text:span> / <text:span text:style-name="MT7">Экономический анализ: теория и практика</text:span>, 20<text:span text:style-name="MT8">22</text:span>, т. <text:span text:style-name="MT4">21</text:span>, вып. <text:span text:style-name="MT9">7</text:span><text:span text:style-name="MT10">,</text:span> стр. <text:span text:style-name="MT20">1349</text:span>–<text:span text:style-name="MT20">1363</text:span></text:p>
+              <text:p text:style-name="MP6">http://fin-izdat.ru/journal/<text:span text:style-name="MT11">analiz/</text:span></text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица86.A1" office:value-type="string">
+              <text:p text:style-name="MP7">
+                <text:page-number text:select-page="current">1363</text:page-number>
+              </text:p>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP2"/>
+      </style:footer>
+      <style:footer-left>
+        <table:table table:name="Таблица87" table:style-name="Таблица87">
+          <table:table-column table:style-name="Таблица87.A"/>
+          <table:table-column table:style-name="Таблица87.B"/>
+          <table:table-column table:style-name="Таблица87.C"/>
+          <table:table-row table:style-name="TableLine94128188593648">
+            <table:table-cell table:style-name="Таблица87.A1" office:value-type="string">
+              <text:p text:style-name="MP8">
+                <text:page-number text:select-page="current">1362</text:page-number>
+              </text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица87.B1" office:value-type="string">
+              <text:p text:style-name="MP24"><text:span text:style-name="MT22">О.В. Шимко </text:span>/ <text:span text:style-name="MT7">Экономический анализ: теория и практика</text:span>, 20<text:span text:style-name="MT8">22</text:span>, т. <text:span text:style-name="MT4">21</text:span>, вып. <text:span text:style-name="MT12">7</text:span>, стр. <text:span text:style-name="MT20">1349</text:span>–<text:span text:style-name="MT20">1363</text:span></text:p>
+              <text:p text:style-name="MP9">http://fin-izdat.ru/journal/<text:span text:style-name="MT11">analiz/</text:span></text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица87.A1" office:value-type="string">
+              <text:p text:style-name="MP10"/>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP2"/>
+      </style:footer-left>
+    </style:master-page>
+    <style:master-page style:name="Статья_20_Леонов" style:display-name="Статья Леонов" style:page-layout-name="Mpm5" draw:style-name="Mdp3">
+      <style:header>
+        <table:table table:name="Таблица96" table:style-name="Таблица96">
+          <table:table-column table:style-name="Таблица96.A"/>
+          <table:table-row table:style-name="TableLine94128188573328">
+            <table:table-cell table:style-name="Таблица96.A1" office:value-type="string">
+              <text:p text:style-name="MP25"><text:span text:style-name="MT23">A.V. Leonov</text:span><text:span text:style-name="MT15">et al.</text:span> / <text:span text:style-name="MT2">Economic Analysis: Theory and Practice</text:span>, 20<text:span text:style-name="MT3">22</text:span>, vol. <text:span text:style-name="MT4">21</text:span>, iss. <text:span text:style-name="MT5">7</text:span>, pp. <text:span text:style-name="MT20">1364</text:span>–<text:span text:style-name="MT24">1386</text:span></text:p>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP1"/>
+      </style:header>
+      <style:footer>
+        <table:table table:name="Таблица99" table:style-name="Таблица99">
+          <table:table-column table:style-name="Таблица99.A"/>
+          <table:table-column table:style-name="Таблица99.B"/>
+          <table:table-column table:style-name="Таблица99.C"/>
+          <table:table-row table:style-name="TableLine94128188594720">
+            <table:table-cell table:style-name="Таблица99.A1" office:value-type="string">
+              <text:p text:style-name="MP4"/>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица99.B1" office:value-type="string">
+              <text:p text:style-name="MP26"><text:span text:style-name="MT23">А.В. Леонов</text:span><text:span text:style-name="MT17">и др.</text:span> / <text:span text:style-name="MT7">Экономический анализ: теория и практика</text:span>, 20<text:span text:style-name="MT8">22</text:span>, т. <text:span text:style-name="MT4">21</text:span>, вып. <text:span text:style-name="MT9">7</text:span><text:span text:style-name="MT10">,</text:span> стр. <text:span text:style-name="MT20">1364</text:span>–<text:span text:style-name="MT24">1386</text:span></text:p>
+              <text:p text:style-name="MP6">http://fin-izdat.ru/journal/<text:span text:style-name="MT11">analiz/</text:span></text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица99.A1" office:value-type="string">
+              <text:p text:style-name="MP7">
+                <text:page-number text:select-page="current">1385</text:page-number>
+              </text:p>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP2"/>
+      </style:footer>
+      <style:footer-left>
+        <table:table table:name="Таблица102" table:style-name="Таблица102">
+          <table:table-column table:style-name="Таблица102.A"/>
+          <table:table-column table:style-name="Таблица102.B"/>
+          <table:table-column table:style-name="Таблица102.C"/>
+          <table:table-row table:style-name="TableLine94128188629904">
+            <table:table-cell table:style-name="Таблица102.A1" office:value-type="string">
+              <text:p text:style-name="MP8">
+                <text:page-number text:select-page="current">1386</text:page-number>
+              </text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица102.B1" office:value-type="string">
+              <text:p text:style-name="MP26"><text:span text:style-name="MT23">А.В. Леонов</text:span><text:span text:style-name="MT17">и др.</text:span> / <text:span text:style-name="MT7">Экономический анализ: теория и практика</text:span>, 20<text:span text:style-name="MT8">22</text:span>, т. <text:span text:style-name="MT4">21</text:span>, вып. <text:span text:style-name="MT12">7</text:span>, стр. <text:span text:style-name="MT20">1364</text:span>–<text:span text:style-name="MT20">1386</text:span></text:p>
+              <text:p text:style-name="MP9">http://fin-izdat.ru/journal/<text:span text:style-name="MT11">analiz/</text:span></text:p>
+            </table:table-cell>
+            <table:table-cell table:style-name="Таблица102.A1" office:value-type="string">
+              <text:p text:style-name="MP10"/>
+            </table:table-cell>
+          </table:table-row>
+        </table:table>
+        <text:p text:style-name="MP2"/>
+      </style:footer-left>
+    </style:master-page>
+    <style:master-page style:name="Footnote" style:page-layout-name="Mpm6" draw:style-name="Mdp1"/>
+    <style:master-page style:name="Endnote" style:page-layout-name="Mpm6" draw:style-name="Mdp1"/>
+  </office:master-styles>
+</office:document-styles>
